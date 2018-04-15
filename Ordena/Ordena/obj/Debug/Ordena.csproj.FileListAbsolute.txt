@@ -1,0 +1,10 @@
+C:\Proyecto\Ordena\Ordena\Ordena\bin\Debug\Ordena.exe.config
+C:\Proyecto\Ordena\Ordena\Ordena\bin\Debug\Ordena.exe
+C:\Proyecto\Ordena\Ordena\Ordena\bin\Debug\Ordena.pdb
+C:\Proyecto\Ordena\Ordena\Ordena\obj\Debug\Ordena.csprojResolveAssemblyReference.cache
+C:\Proyecto\Ordena\Ordena\Ordena\obj\Debug\Ordena.MainForm.resources
+C:\Proyecto\Ordena\Ordena\Ordena\obj\Debug\Ordena.Properties.Resources.resources
+C:\Proyecto\Ordena\Ordena\Ordena\obj\Debug\Ordena.csproj.GenerateResource.Cache
+C:\Proyecto\Ordena\Ordena\Ordena\obj\Debug\Ordena.exe
+C:\Proyecto\Ordena\Ordena\Ordena\obj\Debug\Ordena.pdb
+C:\Proyecto\Ordena\Ordena\Ordena\obj\Debug\Ordena.LoginForm.resources
